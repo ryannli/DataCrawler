@@ -1,6 +1,7 @@
 ## Wiki Movie/Actor Data Crawler & Visualization
 
-* Data crawler supported by [Beautiful Soup]
+* Data crawler supported by [Beautiful Soup] and store data in JSON format
+* Create graph library data structure
 * Enable to start from random actor Wiki page and crawl any number of movie/actor entries (tree structure)
 * Support data analysis by basic statistics and create illustrations (bar Chart, pie Chart & scatter plot) by [Matplotlib]
 * Create 3D movie/actor relational visualization by [Plotly]
