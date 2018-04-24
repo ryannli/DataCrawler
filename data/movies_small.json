@@ -1,0 +1,359 @@
+{
+    "Going In Style": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 84900000.0,
+        "actors": [
+            "Morgan Freeman",
+            "Michael Caine",
+            "Alan Arkin",
+            "Joey King",
+            "Matt Dillon"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Going_in_Style_(2017_film)",
+        "year": 2017
+    },
+    "Now You See Me 2": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 334900000.0,
+        "actors": [
+            "Jesse Eisenberg",
+            "Mark Ruffalo",
+            "Woody Harrelson",
+            "Dave Franco",
+            "Daniel Radcliffe"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Now_You_See_Me_2",
+        "year": 2016
+    },
+    "London Has Fallen": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 205700000.0,
+        "actors": [
+            "Gerard Butler",
+            "Aaron Eckhart",
+            "Morgan Freeman",
+            "Alon Moni Aboutboul",
+            "Angela Bassett"
+        ],
+        "url": "https://en.wikipedia.org/wiki/London_Has_Fallen",
+        "year": 2016
+    },
+    "Ted 2": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 216700000.0,
+        "actors": [
+            "Mark Wahlberg",
+            "Amanda Seyfried",
+            "Giovanni Ribisi",
+            "Jessica Barth",
+            "John Slattery"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Ted_2",
+        "year": 2015
+    },
+    "Churchill": {
+        "country": [
+            "United Kingdom"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 5400000.0,
+        "actors": [
+            "Brian Cox",
+            "Miranda Richardson",
+            "John Slattery",
+            "Ella Purnell",
+            "James Purefoy"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Churchill_(film)",
+        "year": 2017
+    },
+    "Equity": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 1700000.0,
+        "actors": [
+            "Anna Gunn",
+            "James Purefoy",
+            "Alysia Reiner"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Equity_(film)",
+        "year": 2016
+    },
+    "Testament of Youth": {
+        "country": [
+            "United Kingdom"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 5300000.0,
+        "actors": [
+            "Alicia Vikander",
+            "Kit Harington",
+            "Taron Egerton",
+            "Colin Morgan",
+            "Emily Watson"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Testament_of_Youth_(film)",
+        "year": 2015
+    },
+    "Muppets Most Wanted": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 80400000.0,
+        "actors": [
+            "Ricky Gervais",
+            "Ty Burrell",
+            "Tina Fey"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Muppets_Most_Wanted",
+        "year": 2014
+    },
+    "Sisters": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 105000000.0,
+        "actors": [
+            "Amy Poehler",
+            "Maya Rudolph",
+            "Ike Barinholtz",
+            "James Brolin",
+            "John Cena"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Sisters_(2015_film)",
+        "year": 2015
+    },
+    "Monkey Kingdom": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 17100000.0,
+        "actors": [],
+        "url": "https://en.wikipedia.org/wiki/Monkey_Kingdom",
+        "year": 2015
+    },
+    "This Is Where I Leave You": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 41300000.0,
+        "actors": [
+            "Jason Bateman",
+            "Tina Fey",
+            "Adam Driver",
+            "Rose Byrne",
+            "Corey Stoll"
+        ],
+        "url": "https://en.wikipedia.org/wiki/This_Is_Where_I_Leave_You",
+        "year": 2014
+    },
+    "The Disaster Artist": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 28800000.0,
+        "actors": [
+            "Dave Franco",
+            "Alison Brie",
+            "Ari Graynor",
+            "Josh Hutcherson",
+            "Jacki Weaver"
+        ],
+        "url": "https://en.wikipedia.org/wiki/The_Disaster_Artist_(film)",
+        "year": 2017
+    },
+    "Neighbors 2: Sorority Rising": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 108000000.0,
+        "actors": [
+            "Zac Efron",
+            "Rose Byrne",
+            "Chlo\u00eb Grace Moretz",
+            "Dave Franco",
+            "Ike Barinholtz"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Neighbors_2:_Sorority_Rising",
+        "year": 2016
+    },
+    "Dirty Grandpa": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 105200000.0,
+        "actors": [
+            "Robert De Niro",
+            "Zac Efron",
+            "Aubrey Plaza",
+            "Zoey Deutch",
+            "Julianne Hough"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Dirty_Grandpa",
+        "year": 2016
+    },
+    "Before I Fall": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 16100000.000000002,
+        "actors": [
+            "Zoey Deutch",
+            "Halston Sage",
+            "Logan Miller",
+            "Kian Lawley",
+            "Jennifer Beals"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Before_I_Fall_(film)",
+        "year": 2017
+    },
+    "Vampire Academy": {
+        "country": [
+            "United States",
+            "United Kingdom"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 15400000.0,
+        "actors": [
+            "Zoey Deutch",
+            "Lucy Fry",
+            "Danila Kozlovsky",
+            "Gabriel Byrne",
+            "Dominic Sherwood"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Vampire_Academy_(film)",
+        "year": 2014
+    },
+    "The Darkness": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 10900000.0,
+        "actors": [
+            "Kevin Bacon",
+            "Radha Mitchell",
+            "Jennifer Morrison",
+            "Lucy Fry",
+            "David Mazouz"
+        ],
+        "url": "https://en.wikipedia.org/wiki/The_Darkness_(film)",
+        "year": 2016
+    },
+    "Incarnate": {
+        "country": [
+            "United States"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 9000000.0,
+        "actors": [
+            "Aaron Eckhart",
+            "Carice van Houten",
+            "Catalina Sandino Moreno",
+            "David Mazouz",
+            "Keir O'Donnell"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Incarnate_(film)",
+        "year": 2016
+    },
+    "Brimstone": {
+        "country": [
+            "Netherlands",
+            "France",
+            "Germany",
+            "Sweden",
+            "United Kingdom"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 2100000.0,
+        "actors": [
+            "Dakota Fanning",
+            "Guy Pearce",
+            "Carice van Houten",
+            "Kit Harington"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Brimstone_(film)",
+        "year": 2016
+    },
+    "Samuel": {
+        "country": [
+            "Netherlands",
+            "France",
+            "Germany",
+            "Sweden",
+            "United Kingdom"
+        ],
+        "lang": [
+            "English"
+        ],
+        "gross": 2100000.0,
+        "actors": [
+            "Dakota Fanning",
+            "Guy Pearce",
+            "Carice van Houten",
+            "Kit Harington"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Brimstone_(film)",
+        "year": 2016
+    }
+}

@@ -1,0 +1,2 @@
+[run]
+omit = *graph_lib.py
